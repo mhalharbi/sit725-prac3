@@ -1,0 +1,11 @@
+{
+  "name": "sit25-prac1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "Meshal Alharbi",
+  "license": "ISC"
+}
