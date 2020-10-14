@@ -4,8 +4,12 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "*"
-  },
-  "author": "Meshal Alharbi",
+    "express": "*",
+    "moment": "*"
+    },
+    "scripts": {
+      "serve": "nodemon server.js"
+    },  
+    "author": "Meshal Alharbi",
   "license": "ISC"
 }
